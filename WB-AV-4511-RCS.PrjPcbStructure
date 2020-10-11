@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=WB-AV-4511-RCS.SchDoc
+Record=SheetSymbol|SourceDocument=WB-AV-4511-RCS.SchDoc|Designator=CAN|SchDesignator=CAN|FileName=CAN.SchDoc|SymbolType=Normal|RawFileName=CAN.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=WB-AV-4511-RCS.SchDoc|Designator=IMU|SchDesignator=IMU|FileName=IMU.SchDoc|SymbolType=Normal|RawFileName=IMU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=WB-AV-4511-RCS.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=WB-AV-4511-RCS.SchDoc|Designator=Power|SchDesignator=Power|FileName=Power.SchDoc|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=WB-AV-4511-RCS.SchDoc|Designator=Pressure|SchDesignator=Pressure|FileName=Pressure.SchDoc|SymbolType=Normal|RawFileName=Pressure.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=WB-AV-4511-RCS.SchDoc|Designator=Valves|SchDesignator=Valves|FileName=Valves.SchDoc|SymbolType=Normal|RawFileName=Valves.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
